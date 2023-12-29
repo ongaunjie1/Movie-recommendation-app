@@ -1,6 +1,7 @@
 # Movie Recommendation app using cosine similarity
 * Dataset used: https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k
-* Uses streamlit
+* themoviedb API: https://developer.themoviedb.org/reference/intro/getting-started
+* Movie poster extracted from the API
 
 # General steps:
 
